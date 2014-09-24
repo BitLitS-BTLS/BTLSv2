@@ -1,0 +1,21 @@
+================================== coin.conf & Bitlits.exe copy to C:\Users\youusername PC\AppData\Roaming paste to after start Bitlits.exe  ===================
+
+Coin properties
+Coin type
+Bitlits (Scrypt)
+Halving
+210000 blocks
+Initial coins per block
+50 coins
+Target spacing
+10 min
+Target timespan
+168 h
+Coinbase maturity
+6 blocks
+Max coinbase
+21 millions coins
+P2P port
+11046
+RPC port
+21046
