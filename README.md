@@ -71,6 +71,8 @@ https://coin-swap.net/market/BTLS/BTC
 
 VOTE
 
+https://www.swisscex.com/voting
+
 https://askcoin.net/votes
 
 https://cryptoine.com/voting
